@@ -154,7 +154,11 @@ h1, h2, h3, h4, h5, h6{
 /* responsive min-width: 1028px */
 @media (max-width:992px){
   .container-fluid{
-    padding: 2% 10%;
+    padding: 10% 5%;
+    text-align: center;
+  }
+  #title .container-fluid{
+    padding: 5%;
     text-align: center;
   }
   .title-image{
